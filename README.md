@@ -49,8 +49,8 @@ driver.close()
 
 ## Description
 
-Here I'm taking ("https://testautomationpractice.blogspot.com/") website to take the data of bookname, authorname and price of certain books respectively.
-Here we also particularly metion the row number and column number to get the details of certain author and whose their book name and price. To get these details we used the x-path of that element.
+Here I'm taking ("https://testautomationpractice.blogspot.com/") website to take the data of book name, author name and price of certain books respectively.
+Here we also particularly mention the row number and column number to get the details of certain author and whose their book name and price. To get these details we used the x-path of that element.
 
 
 
